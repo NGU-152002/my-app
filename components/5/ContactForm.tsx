@@ -41,7 +41,7 @@ function ContactForm() {
         </div>
         <div className="">
 
-        <button className="px-6 cursor-pointer py-4 bg-amber-400 rounded-xl text-white font-semibold">Send request</button>
+        <button className="px-6 cursor-pointer py-4 bg-[#FFB602] rounded-xl text-white font-semibold">Send request</button>
         </div>
     </div>
 

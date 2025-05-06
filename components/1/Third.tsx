@@ -2,18 +2,18 @@ export default function Third(){
 
     return(
         <>
-        <div>
-            <div className="flex justify-center">
-                <div className="px-4 py-2 flex space-x-2 w-fit rounded-xl bg-purple-500">
+        <div className="bg-[#F2F2F2] ">
+            <div className="flex justify-center items-center">
+                <div className="px-4 py-2 flex items-center bg-[#04165C] space-x-2 w-fit rounded-xl ">
 
-                <div className="w-5 h-5 bg-amber-300 rounded-full" />
-                <p>Services</p>
+                <div className="w-2 h-2 bg-[#FFB602] rounded-full" />
+                <p className="text-white font-semibold text-lg">Services</p>
                 </div>
             </div>
 
             <div className="w-full">
-                <p className="text-2xl text-center font-bold text-blue-600">From Planning to Completion</p>
-                    <p className="text-2xl text-center font-bold text-blue-600">- Your Trusted Partner</p>
+                <p className="text-2xl text-center font-bold text-[#04165C]">From Planning to Completion</p>
+                    <p className="text-2xl text-center font-bold text-[#04165C]">- Your Trusted Partner</p>
                 </div>
 
                 <div className="px-8 flex justify-center space-x-8">

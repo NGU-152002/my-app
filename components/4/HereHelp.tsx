@@ -8,7 +8,7 @@ function HereHelp() {
                   <div className="space-y-3">
                       <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi, laborum pariatur animi maiores vero at quisquam quas veritatis quo amet sed iste explicabo eveniet fugiat delectus cupiditate iure perspiciatis quaerat blanditiis iusto autem nulla! Consequuntur reiciendis, vel rem optio esse earum quos.</p>
                       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, dolorum.</p>
-                      <button className="bg-amber-400 rounded-2xl font-semibold cursor-pointer text-white px-7 py-2">Meet The Team</button>
+                      <button className="bg-[#FFB602] rounded-2xl font-semibold cursor-pointer text-white px-7 py-2">Meet The Team</button>
                   </div>
 
                   <div className="flex space-x-10 items-center">

@@ -12,19 +12,19 @@ export default function PostCard() {
                     </div>
 
                     <div className="flex items-center">
-                        <button className="p-1  bg-amber-400 rounded-md">Follow</button>
+                        <button className="p-1  bg-[#FFB602] rounded-md">Follow</button>
                         <button className="flex text-black items-center text-2xl font-bold">...</button>
                     </div>
                 </div>
 
                 <img className="w-[500px] rounded-2xl flex justify-center" src="https://picsum.photos/500/300" alt="img" />
                 <div className="flex justify-between items-center">
-                    <p className="px-2 py-1 font-semibold  text-sm bg-amber-300 rounded-md">Commercial</p>
+                    <p className="px-2 py-1 font-semibold  text-sm bg-[#FFB602] rounded-md">Commercial</p>
                     <p className=" text-sm">2 days ago</p>
                 </div>
 
                 <div className="space-y-2">
-                    <p className="text-md font-semibold text-blue-800">Modern Living in the Heart of Toronto</p>
+                    <p className="text-md font-semibold text-[#04165C]-800">Modern Living in the Heart of Toronto</p>
                     <div className="space-x-3 flex items-center">
                         <img src="https://picsum.photos/30/30" alt="location" />
                         <p className="font-semibold text-xl text-amber-300">Toronto</p>

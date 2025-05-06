@@ -54,8 +54,8 @@ function CalculateMortgagePayment() {
                         <div className="w-full pt-2 space-y-4">
                         <p>Your estimated monthly payment: <span className="font-bold">8000</span></p>
                         <div className="space-x-5">
-                            <button type="submit" className="text-white px-3 py-2 cursor-pointer font-semibold rounded-xl bg-amber-500">Calculate now</button>
-                            <button onClick={(e:any)=>{e.stopPropagation()}} className="border-2 rounded-xl px-3 py-2 border-amber-500 cursor-pointer  text-amber-500">Start Over</button>
+                            <button type="submit" className="text-white px-3 py-2 cursor-pointer font-semibold rounded-xl bg-[#FFB602]">Calculate now</button>
+                            <button onClick={(e:any)=>{e.stopPropagation()}} className="border-2 rounded-xl px-3 py-2 border-[#FFB602] cursor-pointer  text-[#FFB602]">Start Over</button>
                         </div>
                         </div>
                        

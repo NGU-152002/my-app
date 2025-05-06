@@ -3,7 +3,7 @@
 function InvestmentBenefits() {
     return (
         <>
-        <div className="px-7 py-5 flex items-center justify-center space-y-5 space-x-10 ">
+        <div className="px-7 py-5 flex items-center justify-center bg-[#F2F2F2] space-y-5 space-x-10 ">
             <div className="space-y-7">
             <div className="space-y-5">
                 <p className="font-bold text-2xl">Investment Benefits</p>

@@ -5,7 +5,7 @@ import CalculateMortgagePayment from "./CalculateMortgagePayment";
 function SellingYourHome() {
     return (
         <>
-            <div className="bg-blue-700 py-10 pb-70 space-y-10">
+            <div className="bg-[#04165C] py-10 pb-70 space-y-10">
                 <div className="w-full flex flex-col items-center text-center space-y-5">
                     <p className="text-white font-bold text-2xl">Selling Your Home With Realty</p>
                     <p className="w-100 text-center text-white">we'll get to know you to understand you selling goods, and explain the sellling processso you kn ow what to expect.</p>
@@ -19,10 +19,10 @@ function SellingYourHome() {
 
                         </div>
 
-                        <p className="font-semibold text-center text-blue-700">Complete The Questionnaire</p>
+                        <p className="font-semibold text-center text-[#04165C]-700">Complete The Questionnaire</p>
                         <div className="mx-25 flex justify-center border-t-2 w-20" />
                         <p className="text-center w-70 text-gray-500">Your responses will help our partner, Shortly after your lender is selected. they'll contact you to discuss options for financing your future home.</p>
-                        <button className="bg-amber-400 font-semibold cursor-pointer">Read More</button>
+                        <button className="bg-amber-400-400 font-semibold cursor-pointer">Read More</button>
                     </div>
 
                     <div className="p-4 bg-white w-fit  rounded-xl space-y-4">
@@ -31,7 +31,7 @@ function SellingYourHome() {
 
                         </div>
 
-                        <p className="font-semibold text-center text-blue-700">Get Financial Connections</p>
+                        <p className="font-semibold text-center text-[#04165C]-700">Get Financial Connections</p>
                         <div className="mx-25 flex justify-center border-t-2 w-20" />
 
                         <p className="text-center w-70 text-gray-500">Your responses will help our partner, Shortly after your lender is selected. they'll contact you to discuss options for financing your future home.</p>
@@ -43,7 +43,7 @@ function SellingYourHome() {
 
                         </div>
 
-                        <p className="font-semibold text-center text-blue-700">Recieve your Custom Quota</p>
+                        <p className="font-semibold text-center text-[#04165C]-700">Recieve your Custom Quota</p>
                         <div className="mx-25 flex justify-center border-t-2 w-20" />
                         <p className="text-center w-70 text-gray-500">Your responses will help our partner, Shortly after your lender is selected. they'll contact you to discuss options for financing your future home.</p>
                     </div>

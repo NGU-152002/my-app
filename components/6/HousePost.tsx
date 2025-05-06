@@ -6,7 +6,7 @@ function HousePost({isSell=false}:{isSell?:boolean}) {
             <img className="w-85 h-60 object-cover" src="https://picsum.photos/300/300" alt="House Image" />
 
             <div className="p-4 pr-0 relative space-y-5">
-                <div className="absolute left-0 top-4 h-7 w-1 bg-yellow-500 rounded-r"></div>
+                <div className="absolute left-0 top-4 h-7 w-1 bg-[#FFB602] rounded-r"></div>
 
                 <h3 className="text-lg truncate font-semibold text-[#001858] pl-3">
                     1224 Saint Nicholas Avenue, Apt
@@ -14,7 +14,7 @@ function HousePost({isSell=false}:{isSell?:boolean}) {
 
                 <div className="mt-2 flex justify-between items-center pl-3">
                     <span className="text-[#001858] font-bold text-lg">$ 1500<span className="text-sm font-normal">/mo</span></span>
-                    <span className="bg-yellow-500  text-white text-sm font-semibold px-3 py-1 rounded-md">{isSell?"For Sell":"For Rent"}</span>
+                    <span className="bg-[#FFB602]  text-white text-sm font-semibold px-3 py-1 rounded-md">{isSell?"For Sell":"For Rent"}</span>
                 </div>
 
                 <div className='flex space-x-5 pr-4'>

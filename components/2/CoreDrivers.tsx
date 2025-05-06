@@ -37,12 +37,12 @@ function CoreDrivers() {
           <p className="text-2xl text-center font-semibold ">Core Drivers of U Can Realty</p>
         </div>
 
-        <div className="bg-amber-500">
+        <div className="bg-[#FFB602]">
           <div className="flex pb-2 justify-center space-x-10">
         {
           Tabs.map((item:{name:string,title:string,desc:string},index:number)=>{
             return(
-              <div key={index} onClick={()=>{setSetSelectedTab(item.name);setSelectedContent({title:item.title,desc:item.desc})}} className={` ${selectedTab==item.name?"bg-blue-500 text-white":"bg-white"} font-semibold px-7 py-2 cursor-pointer select-none rounded-b-lg  shadow-lg`}>
+              <div key={index} onClick={()=>{setSetSelectedTab(item.name);setSelectedContent({title:item.title,desc:item.desc})}} className={` ${selectedTab==item.name?"bg-[#04165C] text-white":"bg-white"} font-semibold px-7 py-2 cursor-pointer select-none rounded-b-lg  shadow-lg`}>
                 {item.name}
               </div>
             )

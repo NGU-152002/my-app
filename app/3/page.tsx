@@ -7,7 +7,7 @@ import WhyChoose from "@/components/3/WhyChoose"
 
 function page() {
   return (
-    <div className="space-y-7">
+    <div className="space-y-7 bg-[#F2F2F2]">
     <FirstSection />
     <WhyChoose />
     <HomeOwner />

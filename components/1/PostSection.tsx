@@ -4,8 +4,8 @@ export default function PostSection(){
 
     return(
         <>
-        <div  className="p-3 ">
-            <p className="w-full font-bold text-center text-4xl text-blue-500">Scroll-Worthy Spaces We Posted</p>
+        <div  className="p-3 bg-[#F2F2F2] ">
+            <p className="w-full font-bold text-center text-4xl text-[#04165C]">Scroll-Worthy Spaces We Posted</p>
 
             <div className="flex space-x-3">
                 <div className="flex items-center"><p className="p-3 rounded-full border-3 border-blue-600">L</p></div>

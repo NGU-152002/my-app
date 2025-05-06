@@ -6,7 +6,7 @@ import SellingYourHome from "@/components/4/SellingYourHome"
 
 function page() {
   return (
-<div className="space-y-5">
+<div className="space-y-5 bg-[#F2F2F2]">
 <FirstSeciton />
 <HereHelp />
 <SellingYourHome />

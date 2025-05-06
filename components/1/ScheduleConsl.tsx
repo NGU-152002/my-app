@@ -3,7 +3,7 @@
 function ScheduleConsl() {
   return (
     <>
-    <div className="py-5 flex justify-center space-x-10">
+    <div className="py-5 flex justify-center space-x-10 bg-[#F2F2F2]">
     <div className=" space-y-5 flex flex-col justify-center">
         <p className="font-bold  text-4xl">Schedule Consultation</p>
         <p className="font-semibold">Book a consultation with our experts to discuss your real estate goals</p>

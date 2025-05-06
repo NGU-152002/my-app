@@ -10,7 +10,7 @@ export default function First(){
             
                 <p className="text-5xl font-bold">Real Estate Made <br/> Simple in Toronto</p>
                 <p className="text-lg w-lg">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum molestias quae ducimus, quod omnis deserunt nobis a obcaecati consectetur labore.</p>
-                <button className="text-lg hover:bg-blue-500 px-3 py-2 rounded-md border-3 border-amber-600">Get Mortgage Advice Now</button>
+                <button className="text-lg hover:bg-white transition-all duration-300 hover:border-[#04165C] hover:text-black bg-[#04165C] px-3 py-2 rounded-md border-2 border-amber-600">Get Mortgage Advice Now</button>
             </div>
         </div>
         </>

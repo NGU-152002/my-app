@@ -8,7 +8,7 @@ function StartYourSearch() {
  <img className="w-fit rounded-2xl" src="https://picsum.photos/400/400" alt="img" />
     
     <div className="space-y-5">
-<p className="font-semibold text-3xl"><span className="text-amber-400">Starting Your</span> <span className="text-blue-700">Search</span> </p>
+<p className="font-semibold text-3xl"><span className="text-[#FFB602]">Starting Your</span> <span className="text-[#04165C]-700">Search</span> </p>
     <ul className="space-y-3 list-disc pl-5">
         <li className="font-semibold text-lg">Browse listings online and in newspapers</li>
         <li className="font-semibold text-lg">Drive or walk around neighborhoods to look for 'For Sale' signs</li>

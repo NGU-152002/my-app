@@ -13,7 +13,7 @@ function FirstSeciton() {
 
   return ( 
     <>
-    <div className='flex border-2 border-white bg-blue-700'>
+    <div className='flex border-2 border-white bg-[#04165C]'>
     {/* First div - always visible */}
     <div className={`transition-all duration-300 ${show ? 'w-1/2' : 'w-full'}`}>
               <img className="w-full object-cover h-[150px]" src="https://picsum.photos/400/400" alt="img" />
@@ -34,7 +34,7 @@ function FirstSeciton() {
     </div>
 </div>
 
-<div className="bg-blue-700 py-5">
+<div className="bg-[#04165C] py-5">
 <p className="w-full text-center text-2xl text-white font-bold">To make real estate simple, accessible, and<br/> rewarding for everyone</p>
 
 </div>

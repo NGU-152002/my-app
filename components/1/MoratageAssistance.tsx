@@ -3,16 +3,16 @@
 function MoratageAssistance() {
     return (
         <>
-            <div className="w-full py-5 space-y-20 bg-blue-500">
+            <div className="w-full py-5 bg-[#36468C] space-y-20">
                 <div className="flex  flex-col items-center space-y-5">
                     <p className="font-bold text-white text-4xl">Mortgage Assistance</p>
                     <p className="text-white">Get expert advice and find the right mortgage for your new home</p>
-                    <button className="w-fit px-16 py-2 rounded-md bg-amber-300 text-white font-semibold text-lg">Learn More</button>
+                    <button className="w-fit px-16 py-2 rounded-md bg-[#FFB602] text-white font-semibold text-lg">Learn More</button>
                 </div>
 
                 <div className="flex justify-center items-center space-x-10">
                     
-                    <div className="flex p-3 space-x-2 border-2 border-white rounded-md items-start">
+                    <div className="flex p-3 space-x-2 border-2 border-[#4A5897] rounded-md items-start">
                         <img className="" src="https://picsum.photos/100/100" alt="img" />
 
                         <div className="space-y-3">
@@ -28,7 +28,7 @@ function MoratageAssistance() {
                         </div>
                     </div>
 
-                    <div className="flex p-3 space-x-2 border-2 border-white rounded-md items-start">
+                    <div className="flex p-3 space-x-2 border-2 border-[#4A5897] rounded-md items-start">
                         <img className="" src="https://picsum.photos/100/100" alt="img" />
 
                         <div className="space-y-3">
