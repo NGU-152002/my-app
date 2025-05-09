@@ -8,7 +8,7 @@ interface CoreDriversContentProps{
 
 function CoreDriversContent({data}:CoreDriversContentProps) {
     return (
-        <div className="bg-[#04165C] pb-20 space-x-3 py-2 flex justify-center items-center">
+        <div className="bg-[#04165C]  space-x-3 py-10 flex justify-center items-center">
  
             <img className="rounded-xl" src="https://picsum.photos/200/200" alt="img" />
 

@@ -26,7 +26,7 @@ function LocateLocalAgentBanner() {
     //     </>
     <>
 
-<div className="flex  items-center justify-between bg-[#04165C] text-white rounded-lg p-8 py-3 relative overflow-hidden">
+<div className="flex  items-center  justify-between bg-[#04165C] text-white rounded-lg p-8 my-5 mx-20 py-3 relative overflow-hidden">
   <div className="max-w-md space-y-4 z-10">
     <h1 className="text-4xl font-bold leading-tight">
       Find a Local Real Estate <br />

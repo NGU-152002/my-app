@@ -11,9 +11,9 @@ export default function PostCard() {
 
                     </div>
 
-                    <div className="flex items-center">
+                    <div className="flex space-x-3 items-center">
                         <button className="p-1  bg-[#FFB602] rounded-md">Follow</button>
-                        <button className="flex text-black items-center text-2xl font-bold">...</button>
+                        <button className="flex text-black items-center text-2xl select-none mb-2 cursor-pointer font-bold">...</button>
                     </div>
                 </div>
 

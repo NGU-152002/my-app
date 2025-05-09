@@ -3,8 +3,8 @@ import React from 'react'
 function FirstSeciton() {
   return (
    <>
-   <div>
-    <div className='w-full h-100 realtive   flex justify-center items-center' >
+   <div className='w-full h-full'>
+    <div className='w-full h-100 relative   flex justify-center items-center' >
     <div className='absolute w-full h-100 inset-0 bg-cover' style={{backgroundImage:"url('https://picsum.photos/1920/1080')"}}></div>
    
     <div className='absolute w-full h-100 inset-0 bg-black/20'></div>
